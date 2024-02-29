@@ -1,0 +1,9 @@
+[submodule "p1/raylib-cpp"]
+	path = p1/raylib-cpp
+	url = https://github.com/joshuadahlunr/raylib-cpp.git
+[submodule "p2/raylib-cpp"]
+	path = p2/raylib-cpp
+	url = https://github.com/joshuadahlunr/raylib-cpp.git
+[submodule "p3/raylib-cpp"]
+	path = p3/raylib-cpp
+	url = https://github.com/joshuadahlunr/raylib-cpp.git
